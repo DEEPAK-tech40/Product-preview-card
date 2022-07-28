@@ -2,18 +2,10 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+![image](https://user-images.githubusercontent.com/94350356/181567555-469a05e9-ed4b-4c17-bc0a-d656bcbd49a9.png)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+
+
 
 ## Overview
 
@@ -29,15 +21,21 @@ Users should be able to:
 ### Screenshot
 
 Desktop-view:
-![](<../../main/screenshots/Product%20preview%20card(desktop-view).png>)
+
+
+![image](https://user-images.githubusercontent.com/94350356/181567555-469a05e9-ed4b-4c17-bc0a-d656bcbd49a9.png)
+
 
 Mobile-view:
-![](<../../main/screenshots/Product%20preview%20card(mobile-view).png>)
+
+
+![image](https://user-images.githubusercontent.com/94350356/181568016-90731042-94d4-4c2b-9d46-f81f4a666a18.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Product preview](https://62e29ec54d37202917090f11--startling-melomakarona-b96a68.netlify.app/)
 
 ## My process
 
