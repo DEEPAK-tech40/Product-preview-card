@@ -2,7 +2,7 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![image](https://user-images.githubusercontent.com/94350356/181567555-469a05e9-ed4b-4c17-bc0a-d656bcbd49a9.png)
+![image](https://user-images.githubusercontent.com/94350356/181571272-79264306-6bf0-4323-a508-2d9956e92493.png)
 
 
 
@@ -34,7 +34,7 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-fV8fgrD6IR)
 - Live Site URL: [Product preview](https://62e29ec54d37202917090f11--startling-melomakarona-b96a68.netlify.app/)
 
 ## My process
@@ -49,6 +49,7 @@ Mobile-view:
 ### What I learned
 
 From this project i learned the use of media queries and improved myself on many aspects such as in using relative position and etc...
+
 
 ### Continued development
 
