@@ -35,7 +35,7 @@ Mobile-view:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-fV8fgrD6IR)
-- Live Site URL: [Product preview](https://main--startling-melomakarona-b96a68.netlify.app/)
+- Live Site URL: [Product preview](https://deepak-tech40-product-preview-component.netlify.app/)
 
 ## My process
 
